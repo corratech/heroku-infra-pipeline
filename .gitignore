@@ -1,0 +1,11 @@
+# Files
+creds.txt
+*.tfvars
+*.lock.hcl
+.terraform.lock.hcl
+*.tfstate
+terraform.tfstate
+terraform.tfstate.backup
+
+# Directories
+.terraform/
